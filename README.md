@@ -1,1 +1,3 @@
-# webpack-starter
+# Cringe Dad Jokes
+
+Generate cringe dad jokes
