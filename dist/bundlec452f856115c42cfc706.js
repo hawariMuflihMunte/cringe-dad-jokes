@@ -126,7 +126,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
   \**********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _generate_joke__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./generate.joke */ \"./src/generate.joke.js\");\n/* harmony import */ var _scss_main_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./scss/main.scss */ \"./src/scss/main.scss\");\n\r\n\r\n\r\nconsole.log((0,_generate_joke__WEBPACK_IMPORTED_MODULE_0__[\"default\"])());\r\n\n\n//# sourceURL=webpack://webpack-starter/./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _generate_joke__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./generate.joke */ \"./src/generate.joke.js\");\n/* harmony import */ var _scss_main_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./scss/main.scss */ \"./src/scss/main.scss\");\n\r\n\r\n\r\nconsole.log((0,_generate_joke__WEBPACK_IMPORTED_MODULE_0__[\"default\"])());\r\nconsole.log(1);\r\n\n\n//# sourceURL=webpack://webpack-starter/./src/index.js?");
 
 /***/ })
 
